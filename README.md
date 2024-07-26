@@ -2,7 +2,7 @@
 
 This is a tool that allows the creation of a robust ontology-based knowledge graph from unstrctured input. The knowledge graph will be stored in Neo4j.
 
-## FOR REFERENCE:
+## REFERENCES:
 
 TKGCon: 
 https://medium.com/@researchgraph/automated-knowledge-graph-construction-with-large-language-models-part-2-b107ca8ec5ea

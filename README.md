@@ -17,7 +17,7 @@ https://towardsdatascience.com/entity-resolution-identifying-real-world-entities
 
 ### PROCESS
 
-![TKGCon](Markdown_Images\TKGCon.png)
+![TKGCon](Markdown_Images/TKGCon.png)
 1. PDF to image extraction and generation of description in unstructured text
 2. Text splitting and storage in local vector database
 3. Creation of unrefined triples

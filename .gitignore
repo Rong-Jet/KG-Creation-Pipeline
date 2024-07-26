@@ -1,5 +1,10 @@
-/.conda
-NotesFromSlides_V1.ipynb
-Copy of openaifunction_constructing_graph.ipynb
-extract_graph.ipynb
+# Ignore the .conda directory
+/.conda 
+
+# Ignore specific Jupyter Notebook files
+/NotesFromSlides_V1.ipynb
+/Copy of openaifunction_constructing_graph.ipynb
+/extract_graph.ipynb
+
+# Ignore the environment file
 KG.env
